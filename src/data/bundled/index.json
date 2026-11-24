@@ -1,0 +1,229 @@
+{
+  "modules": [
+    {
+      "id": "bdzy",
+      "name": "百度影视",
+      "version": "1.0.0",
+      "description": "电影 · 剧集 · 综艺 · 动漫 · 短剧",
+      "adult": false,
+      "group": "mainstream",
+      "groupName": "大众级"
+    },
+    {
+      "id": "beabox",
+      "name": "笔盒",
+      "version": "1.0.1",
+      "description": "分类视频 · 在线搜索",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "chaoliu",
+      "name": "潮流AV",
+      "version": "1.0.9",
+      "description": "分类视频 · 在线搜索 · 1080P/720P",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "dsd",
+      "name": "帝果",
+      "version": "1.0.1",
+      "description": "分类视频 · 在线搜索",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "ffzy",
+      "name": "非凡影视",
+      "version": "1.0.0",
+      "description": "电影 · 剧集 · 综艺 · 动漫 · 短剧",
+      "adult": false,
+      "group": "mainstream",
+      "groupName": "大众级"
+    },
+    {
+      "id": "guangsu",
+      "name": "光速影视",
+      "version": "1.0.0",
+      "description": "电影 · 剧集 · 综艺 · 动漫 · 短剧",
+      "adult": false,
+      "group": "mainstream",
+      "groupName": "大众级"
+    },
+    {
+      "id": "guipian",
+      "name": "鬼片",
+      "version": "1.0.1",
+      "description": "鬼片 · 电视剧 · 动漫",
+      "adult": false,
+      "group": "mainstream",
+      "groupName": "大众级"
+    },
+    {
+      "id": "hanime1",
+      "name": "Hanime1",
+      "version": "1.0.1",
+      "description": "分类视频 · 在线搜索 · 多清晰度 · 日本 IP 无法访问",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "hanxiaoquan",
+      "name": "韩小圈",
+      "version": "1.0.1",
+      "description": "韩剧 · 韩国电影 · 综艺动漫",
+      "adult": false,
+      "group": "mainstream",
+      "groupName": "大众级"
+    },
+    {
+      "id": "heitao",
+      "name": "黑桃",
+      "version": "1.0.1",
+      "description": "分类短剧 · 在线搜索",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "hongguo",
+      "name": "红果",
+      "version": "1.0.7",
+      "description": "短剧 · 漫剧 · AI 剧 · 听书",
+      "adult": false,
+      "group": "mainstream",
+      "groupName": "大众级"
+    },
+    {
+      "id": "hongguo-full",
+      "name": "红果全集版",
+      "version": "1.0.0",
+      "description": "红果短剧全库 · 整剧解锁 · 自动匹配片源",
+      "adult": false,
+      "group": "mainstream",
+      "groupName": "大众级"
+    },
+    {
+      "id": "huangdou",
+      "name": "黄豆",
+      "version": "1.0.0",
+      "description": "精选短剧",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "huangguo-old",
+      "name": "黄果旧版",
+      "version": "1.0.0",
+      "description": "旧 API 剧库",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "huangguo-video",
+      "name": "黄果视频",
+      "version": "1.0.1",
+      "description": "视频剧集",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "huangguoai",
+      "name": "黄果 AI",
+      "version": "1.0.1",
+      "description": "AI 短剧",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "huangju",
+      "name": "剧果",
+      "version": "1.0.1",
+      "description": "热门 · 最新 · 分类短剧",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "ikanbot",
+      "name": "爱看机器人",
+      "version": "1.0.5",
+      "description": "爱看机器人（ikanbot）——全网聚合搜索式影视源，多线路可切换",
+      "adult": false,
+      "group": "mainstream",
+      "groupName": "大众级"
+    },
+    {
+      "id": "jinguoduanju",
+      "name": "禁果短剧",
+      "version": "1.0.1",
+      "description": "推荐 · 分类短剧 · 在线搜索",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "missav",
+      "name": "MissAV",
+      "version": "1.0.1",
+      "description": "分类视频 · 在线搜索",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "modu",
+      "name": "魔都影视",
+      "version": "1.0.0",
+      "description": "电影 · 剧集 · 综艺 · 动漫 · 短剧",
+      "adult": false,
+      "group": "mainstream",
+      "groupName": "大众级"
+    },
+    {
+      "id": "sorani",
+      "name": "青空",
+      "version": "1.0.1",
+      "description": "番剧 · 剧场动画 · 特摄",
+      "adult": false,
+      "group": "mainstream",
+      "groupName": "大众级"
+    },
+    {
+      "id": "wujin",
+      "name": "无尽影视",
+      "version": "1.0.0",
+      "description": "电影 · 剧集 · 综艺 · 动漫 · 短剧",
+      "adult": false,
+      "group": "mainstream",
+      "groupName": "大众级"
+    },
+    {
+      "id": "yeguo",
+      "name": "野果",
+      "version": "1.0.1",
+      "description": "分类短剧 · 在线搜索",
+      "adult": true,
+      "group": "nsfw",
+      "groupName": "NSFW · 限制级"
+    },
+    {
+      "id": "zy360",
+      "name": "360影视",
+      "version": "1.0.0",
+      "description": "电影 · 剧集 · 综艺 · 动漫 · 短剧",
+      "adult": false,
+      "group": "mainstream",
+      "groupName": "大众级"
+    }
+  ]
+}
